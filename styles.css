@@ -7,7 +7,7 @@ body {
 }
 
 div#hero {
-    background-image: url("Court.jpg");
+    background-image: url("Images/Court.jpg");
     height: 500px;
     background-size: cover;
     background-position: center;
